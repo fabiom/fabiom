@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a brazilian🇧🇷 mathematician.
+I'm a Brazilian🇧🇷 mathematician.
 
 - 🔭 I’m currently doing a PhD in Mathematics at Unicamp
 - 🌱 I’m currently learning information theory and information geometry
