@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+My name is Fábio Meneghetti, i'm a brazilian🇧🇷 mathematician.
+
+- 🔭 I’m currently doing a PhD in Mathematics at Unicamp
+- 🌱 I’m currently learning information theory and information geometry
+- 💬 Ask me about maths!
+- 🌐 My webpage is [fabiom.xyz](https://fabiom.xyz)
+- 📫 How to reach me: fabiom@pm.me
+
+
 <!--
 **fabiom/fabiom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
