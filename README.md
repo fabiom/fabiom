@@ -5,8 +5,8 @@ I'm a Brazilian🇧🇷 mathematician.
 - 🔭 I’m currently doing a PhD in Mathematics at Unicamp
 - 🌱 I’m currently learning information theory and information geometry
 - 💬 Ask me about maths!
-- 🌐 My webpage is [fabiom.xyz](https://fabiom.xyz)
-- 📫 How to reach me: fabiom@pm.me
+- 🌐 My webpage is [fabiom.net](https://fabiom.net)
+- 📫 How to reach me: contact@fabiom.net
 
 
 <!--
